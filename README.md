@@ -1,5 +1,7 @@
 # Terratech-Reference-Chart
 
+![TT Ref Chart Preview](https://raw.githubusercontent.com/ciphernemo/Terratech-Reference-Chart/master/preview.jpg "TT Ref Chart Preview")
+
 TerraTech reference chart for resource gathering, crafting, and more. [TerraTech](https://terratechgame.com/) is a game relseased by [Payload Studios](https://payloadstudios.com).
 
 ### Prerequisites
