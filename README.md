@@ -32,6 +32,8 @@ If you wish to edit the Photoshop file, you will need to run Photoshop version 1
 
 Feel free to submit any corrections to the charts or other content and I'll review them to include within the project. This public project is free to evolve over time if it's found useful by the TerraTech community. Feel free to branch from the project and create your own, unique version of this reference chart.
 
+Also, I'd love to get ideas for what you'd like to include in future versions of this reference chart. Looking for thoughts to include any additional TerraTech reference information that would be of us to players. Do not worry about viewable size limitations, as additional layers of data within the image can be toggled on/off and re-organized as needed.
+
 ## Authors
 
 * **"cipher nemo"** - *Initial work* - [ciphernemo](https://github.com/ciphernemo)
