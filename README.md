@@ -12,16 +12,16 @@ If you wish to edit the Photoshop file, you will need to run Photoshop version 1
 ### Using This Project
 
 #### To save the image as your desktop background for single-screen systems:
-1. Download the "terratech_reference_chart.jpg" file.
+1. Download the "[terratech_reference_chart.jpg](https://raw.githubusercontent.com/ciphernemo/Terratech-Reference-Chart/master/terratech_reference_chart.jpg)" file.
 2. Change your background to this new image.
 #### To use the image as your desktop background for multi-screen systems:
-1. Download the "terratech_reference_chart.jpg" file.
+1. Download the "[terratech_reference_chart.jpg](https://raw.githubusercontent.com/ciphernemo/Terratech-Reference-Chart/master/terratech_reference_chart.jpg)" file.
 2. Change your background to this new image...
     * For Windows 10 [follow this guide](https://www.pcworld.com/article/2984423/windows/how-to-set-different-wallpapers-for-multiple-monitors-in-windows-10.html) to use different images for different screens.
     * For Windows 8 you'll be able to set this image as the background for any screen.
     * For Windows 7 [follow this guide](https://www.online-tech-tips.com/windows-7/different-background-dual-monitor-windows-7/) to create one large image that will be shared by your multiple screens.
 #### To edit the image or incorporate it into your own image file/project:
-1. Download the "terratech_reference_chart.psd" file.
+1. Download the "[terratech_reference_chart.psd](https://github.com/ciphernemo/Terratech-Reference-Chart/blob/master/terratech_reference_chart.psd)" file.
 2. Note that layers are broken down into folders to represent different elements within the file. The "Reference" folder layer contains information about colors and fonts used, as well as individual icons for TerraTech resources and components.
 3. If you redistribute my work or derive new work from it, you are required to retain the same GNU GPL 3.0 license.
 
