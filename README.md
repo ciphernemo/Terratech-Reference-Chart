@@ -24,6 +24,22 @@ If you wish to edit the Photoshop file, you will need to run Photoshop version 1
 2. Note that layers are broken down into folders to represent different elements within the file. The "Reference" folder layer contains information about colors and fonts used, as well as individual icons for TerraTech resources and components.
 3. If you redistribute my work or derive new work from it, you are required to retain the same GNU GPL 3.0 license.
 
+### Version History
+
+#### 1.0 - Initial Release
+    * Feature: Resource location chart
+    * Feature: Component recipe charts
+    * Feature: Steam achievement list
+#### 1.1 - Sell Prices
+    * Feature: Resource sell price chart
+    * Feature: Component sell price chart
+    * Change: Moved Thermo Jet recipe to new row
+    * Change: Nudged component recipe chart higher
+    * Change: Moved some Steam achievements from the 1st column to the 2nd column
+    * Change: Added three new colors (#2A231F, #2A291F, and #2A212A) for alternating rows of the component sell price chart
+    * Change: Added Tahoma font for "BB" currency symbols
+    * Change: Updated Reference layer to reflect these changes
+
 ## References
 
 * [TerraTech Wiki](https://terratech.gamepedia.com/TerraTech_Wiki) -- A useful, but still partially incomplete collaborative guide to TerraTech topics.
