@@ -27,10 +27,6 @@ If you wish to edit the Photoshop file, you will need to run Photoshop version 1
 
 ### Version History
 
-#### 1.0 - Initial Release
-* Feature: Resource location chart
-* Feature: Component recipe charts
-* Feature: Steam achievement list
 #### 1.1 - Sell Prices
 * Feature: Resource sell price chart
 * Feature: Component sell price chart
@@ -40,6 +36,10 @@ If you wish to edit the Photoshop file, you will need to run Photoshop version 1
 * Change: Added three new colors (#2A231F, #2A291F, and #2A212A) for alternating rows of the component sell price chart
 * Change: Added Tahoma font for "BB" currency symbols
 * Change: Updated Reference layer to reflect these changes
+#### 1.0 - Initial Release
+* Feature: Resource location chart
+* Feature: Component recipe charts
+* Feature: Steam achievement list
 
 ## References
 
