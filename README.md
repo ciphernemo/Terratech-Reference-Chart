@@ -1,4 +1,5 @@
 # Terratech-Reference-Chart
+#### Version 1.1
 
 ![TT Ref Chart Preview](https://raw.githubusercontent.com/ciphernemo/Terratech-Reference-Chart/master/preview.jpg "TT Ref Chart Preview")
 
